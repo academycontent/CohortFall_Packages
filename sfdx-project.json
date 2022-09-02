@@ -6,6 +6,13 @@
             "package": "Demo_Package_version2",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "package": "Demo-Package",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "name": "cohortFall22",
@@ -13,6 +20,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "55.0",
     "packageAliases": {
-        "Demo_Package_version2": "0Ho5Y0000010wZ7SAI"
+        "Demo_Package_version2": "0Ho5Y0000010wZ7SAI",
+        "Demo-Package": "0Ho5Y0000010wZCSAY"
     }
 }
